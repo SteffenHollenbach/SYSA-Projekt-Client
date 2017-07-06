@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/multiagent/remote/IPlayer.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/multiagent/remote/IStrategy.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/multiagent/remote/IAgent.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/multiagent/strategy/Strategy.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/multiagent/remote/IMultiAgentServer.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/gameclient/ClientFrame.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/gameclient/AgentUtils.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/GameClient/src/gameclient/ClientImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
